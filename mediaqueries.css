@@ -111,10 +111,16 @@ section
     }
     .section_text_p2
     {
+        margin-bottom: auto
+    }
+
+    .section_text_p2
+    {
         font-size: 1.25rem;
     }
     .title
     {
+        margin-top: auto;
         font-size: 2rem;
     }
     .text-container
