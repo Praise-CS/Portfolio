@@ -323,6 +323,7 @@ height: 2rem;
 
 .about-pic
 {
+
     border-radius: 2rem;
 }
 
@@ -424,9 +425,14 @@ article .icon
     width: 90%;
     height: 90%;
 }
-
+.experience-sub-title
+{
+  
+    text-align: center;
+}
 .project-title
 {
+   
   margin: 1rem;
   color: black;
 }

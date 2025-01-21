@@ -89,6 +89,12 @@ section
     {
         font-size: 1rem;
     }
+    .section_pic-container
+    {
+       
+        justify-content: center;
+    
+    }
 
     .experience-sub-title
     {
